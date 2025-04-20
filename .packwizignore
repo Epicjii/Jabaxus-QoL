@@ -3,6 +3,3 @@
 
 # Exclude README
 /README.md
-/index.html
-/.github/workflows/static.yml
-
