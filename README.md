@@ -3,7 +3,7 @@ A Fabric QoL modpack for Vanilla Minecraft
 # Download Instructions
 First, download the [packwiz bootstrapper](https://github.com/packwiz/packwiz-installer-bootstrap/releases) and add it to your .minecraft.
 
-Add ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Epicjii/Jabaxus-QoL/refs/heads/1.21.5/pack.toml``` to your pre-launch commands in your instance settings to download the mods in the pack. 
+Add ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Epicjii/Jabaxus-QoL/refs/heads/1.21.4/pack.toml``` to your pre-launch commands in your instance settings to download the mods in the pack. 
 The link points to this repo to know which files to use.
  
 ## Modlist
@@ -14,7 +14,6 @@ The link points to this repo to know which files to use.
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)*
 - [Iris](https://modrinth.com/mod/iris)*
 - [Jade](https://modrinth.com/mod/jade)
-- [JEI](https://modrinth.com/mod/jei)
 - [JourneyMap](https://modrinth.com/mod/journeymap)*
 - [litematica](https://modrinth.com/mod/litematica)*
 - [MiniHud](https://modrinth.com/mod/minihud)*
