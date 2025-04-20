@@ -1,7 +1,7 @@
 A Fabric QoL modpack for Vanilla Minecraft  
 # Mod List [here](#modlist)
 # Download Instructions
-    Select a branch matching your Minecraft version first for instructions. 
+Select a branch matching your Minecraft version first for instructions. 
 ## Modlist
 - [Amecs Reborn](https://modrinth.com/mod/amecs-reborn)*
 - [Appleskin](https://modrinth.com/mod/appleskin)
