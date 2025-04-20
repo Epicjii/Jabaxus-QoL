@@ -4,5 +4,5 @@
 # Exclude README
 /README.md
 /index.html
-.github\workflows\static.yml
+/.github/workflows/static.yml
 

@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "02ac0922213428cbe3a89bb96bd4b2eeb48c4cb6a0d2d61ae26c7c12aecaac88"
-
-[[files]]
-file = "README.md"
-hash = "46938707ead6794a8481ebf084b5bec1efa6d92b74467e2ed39ecc0dedbd8720"
-
-[[files]]
-file = "index.html"
-hash = "f0561ae9927666d134ed50d55b8eff362e756cde3e071615cdf625f50eaec2aa"
-
-[[files]]
 file = "mods/amecs-reborn.pw.toml"
 hash = "0308f0b2c2510c3fe7a2826279b97b400ae12beb5e03a76acf662ac0279aadc8"
 metafile = true
