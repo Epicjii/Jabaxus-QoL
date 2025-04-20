@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/static.yml"
+hash = "02ac0922213428cbe3a89bb96bd4b2eeb48c4cb6a0d2d61ae26c7c12aecaac88"
+
+[[files]]
+file = "README.md"
+hash = "46938707ead6794a8481ebf084b5bec1efa6d92b74467e2ed39ecc0dedbd8720"
+
+[[files]]
+file = "index.html"
+hash = "f0561ae9927666d134ed50d55b8eff362e756cde3e071615cdf625f50eaec2aa"
+
+[[files]]
 file = "mods/amecs-reborn.pw.toml"
-hash = "5aaf6ffd5d090ae507f78e9fc87dec240f0d41a287fce5c4f554a20dc4b39d0e"
+hash = "0308f0b2c2510c3fe7a2826279b97b400ae12beb5e03a76acf662ac0279aadc8"
 metafile = true
 
 [[files]]
@@ -12,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a4b817f8c3de5af3a6ecb2b72caa2daa3042c1e65cc8eb3c794a0b3ec3bbf847"
+hash = "65307ea5682d4524c23acca0111c97e41937987ba71e182c2f3b2d8d86da263e"
 metafile = true
 
 [[files]]
@@ -27,12 +39,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "a9d76b34a60150cf0a744526c18297b5fd8130be1153b34157e1c2a6796a7673"
+hash = "3de044ab16d301e45d1a5967d25260f0ebe9f65924b4c0f45f1b214cc3697cd1"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+hash = "73f7581e6764c233771f49561961563158936f0dde9bb109da6d9986bb0ac854"
 metafile = true
 
 [[files]]
@@ -47,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "2dcd9d5b89a8e9cb33ef0c40955dfc729156e0547c9fad39247ccce81d869944"
+hash = "650f15296df766d70d3f5a10bed2c11f15fd36980b4c3d2b5627155b4b8738fa"
 metafile = true
 
 [[files]]
@@ -57,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "6f4665f1684aed12b53927753b4f7e15e57ed2cd81ace6db227f5dc704841c2d"
+hash = "a6560a2a96a87c39598a29a06e4f7fa0a5174c15af72bfe59ce915226b6cc02c"
 metafile = true
 
 [[files]]
@@ -67,12 +79,12 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "18cfd02f268502966a31efea316aebf26edeb701286bd9eee1b7dd5b027a6381"
+hash = "e850c29868b6c00dd13b1cea0f82a523a3b83d3f9bdc650a0c50e24fb0c51a29"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+hash = "c834f9314e986a736e4f057b97dc43d8c9b19e71f81b5bc4b8525427859a78f3"
 metafile = true
 
 [[files]]
@@ -92,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
+hash = "81e26ec41b71307ca829c82c030d8c9da3714fe07d4fc30004f0e6958c2d0ca6"
 metafile = true
 
 [[files]]
@@ -102,5 +114,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
+hash = "bd24f4e35ce032bc2e8b4c74cd6cfef366d376ee91955bd131fc50a256b26514"
 metafile = true
