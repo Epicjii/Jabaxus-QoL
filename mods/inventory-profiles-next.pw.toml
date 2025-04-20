@@ -7,6 +7,9 @@ url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/OAlZeFda/InventoryProfile
 hash-format = "sha512"
 hash = "9d9e42816b7e3e6babcb85198d4feef0fc60f09e0162c69732e976c5f8cbc3a98af81e12920bd8f32c0e9c75be81bb312679faf96f47e0db3f26f5928e157caa"
 
+[option]
+optional = true
+
 [update]
 [update.modrinth]
 mod-id = "O7RBXm3n"

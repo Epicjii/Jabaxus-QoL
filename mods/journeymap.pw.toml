@@ -7,6 +7,9 @@ url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/1IixJjcn/journeymap-fabri
 hash-format = "sha512"
 hash = "2ab12d3fe051ff4981f6b27f6692c5ac1f2afc1957bd1b88091b16859e737856eb5cf173f43710cd3e8d0bb4c5bd2b75937e0d12d3a6274e3d76300fbfe4eaef"
 
+[option]
+optional = true
+
 [update]
 [update.modrinth]
 mod-id = "lfHFW1mp"

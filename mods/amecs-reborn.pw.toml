@@ -7,6 +7,9 @@ url = "https://cdn.modrinth.com/data/IjgEpZeq/versions/kqaYgPZJ/Amecs-Reborn-2.0
 hash-format = "sha512"
 hash = "2127754846e6b2fc916cfd31132738fc52e721bc88efbba95413571fc9fa7127c3824eb78fe922f424c7b66aaf1fec575b43dc421aeee185538fa5526f2cc0dd"
 
+[option]
+optional = true
+
 [update]
 [update.modrinth]
 mod-id = "IjgEpZeq"

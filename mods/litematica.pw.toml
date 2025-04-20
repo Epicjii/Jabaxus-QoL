@@ -7,6 +7,9 @@ url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/5R2k9EAZ/litematica-fabri
 hash-format = "sha512"
 hash = "321b038c985a24b56aaa1e469a759004461d5d97089e6e9d74ebe08601f6702a411aa343327e16b98eca761c85828636097d1d0138ec73d6f528f4c2a17b5236"
 
+[option]
+optional = true
+
 [update]
 [update.modrinth]
 mod-id = "bEpr0Arc"
