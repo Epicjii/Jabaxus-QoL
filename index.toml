@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/amecs-reborn.pw.toml"
+hash = "5aaf6ffd5d090ae507f78e9fc87dec240f0d41a287fce5c4f554a20dc4b39d0e"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a4b817f8c3de5af3a6ecb2b72caa2daa3042c1e65cc8eb3c794a0b3ec3bbf847"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9ee84bdf71ae7963fabc99e8bb44acb72334d281b02ddac913e25daf7b81c143"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "a9d76b34a60150cf0a744526c18297b5fd8130be1153b34157e1c2a6796a7673"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "f81cb55c77a9610109346d67eeaff52d38c459340fd8a8daa9f73096faa094b5"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "bba6f62c0dc4366620bf0f93081e8b81bcd77b29653faa710c961e53a88d1301"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "2dcd9d5b89a8e9cb33ef0c40955dfc729156e0547c9fad39247ccce81d869944"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "aca992405a1ccb9c1c2c9ef17d1c5282c79fde772fad6abe6a53dddc25b0b750"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "6f4665f1684aed12b53927753b4f7e15e57ed2cd81ace6db227f5dc704841c2d"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "67a8e6384e83bdd773822fa894542f9b1e7373bb2fc10196f739f914702c6243"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "18cfd02f268502966a31efea316aebf26edeb701286bd9eee1b7dd5b027a6381"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "84beade20969cecc53b26298c498c765bb72888c3dbc51c70f0a4d12693360a6"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "052b70117c2e9a3a697a36f449b220be7bfba215f3a2e43b5ce7faff9e88b2e6"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
+metafile = true

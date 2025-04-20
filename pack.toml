@@ -1,0 +1,13 @@
+name = "Jabaxus QoL"
+author = "Jabaxus"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6923e612b363ec35a54902612a0dde1245f43cb7dc195d5c3af2d33e2a289e34"
+
+[versions]
+fabric = "0.16.13"
+minecraft = "1.21.1"
