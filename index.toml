@@ -21,6 +21,11 @@ hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a8aeb8ebe720dfbc97275f2eac9eda2e758c64ac2667a7c3d5a611f6e4c42aa2"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7e58fafb43626995cece085b2dca57ff1ead1b3ab442df8cd581d4c1f2127b34"
 metafile = true

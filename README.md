@@ -9,6 +9,7 @@ The link points to this repo to know which files to use.
 ## Modlist
 - [Amecs Reborn](https://modrinth.com/mod/amecs-reborn)*
 - [Appleskin](https://modrinth.com/mod/appleskin)
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons)*
 - [EntityCulling](https://modrinth.com/mod/entityculling)*
 - [Kotlin Fabric](https://modrinth.com/mod/fabric-language-kotlin)
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)*
