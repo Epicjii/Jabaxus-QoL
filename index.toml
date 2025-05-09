@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/amecs-reborn.pw.toml"
-hash = "ad3268ad6e5d968d1876f5a72fb276bd76d9fef25440b3d901f2120cec269bac"
+hash = "3e0fdef6e4eb5661960b7f603e31a531930fe22e3c02de6628184150469cb944"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "fc5a0849d71537be3ca0b63ec28d54017dfa94a5954fa723425715221e676d4a"
+hash = "36458742fd0345125d8bfd577c63ee805f45a8f413df954973830571ce9c8e4e"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "cc65749bbf1b2e094918e5787b1cdafee2c4f4b30c8e5fe8a748b2b64f63055c"
+hash = "16f9beda4eec0f5e1f823920e2d1d7bb45e03f9b45c523d1eeb7950716f765ff"
 metafile = true
 
 [[files]]
@@ -67,17 +67,17 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "d3544754b98b0bcb1b6fafdcc168ac08549c4aa1c3df3094b4c2794989905b1a"
+hash = "b7a231d2c0d69a661b5cccaa30b7a2b22523b4f759cc33f0d0542887da0b1060"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
+hash = "f7e23e7fe8a8a92cebf1012f44ced149c27b7400b67f50d92eb3f095e4f45474"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "d996ab83393a8cdaef2055c79f757a7bdc95cf82e6573ef806efe043e7b1f7a5"
+hash = "c9a46a15eb50776a0b1a9741ef93772a0a70dd6969c4fdc12a5b01fc840379ad"
 metafile = true
 
 [[files]]
