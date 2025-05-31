@@ -21,6 +21,11 @@ hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "7253bcc3a65ef8d5226f935de65f6e93a20878e74945238ce8b6dbb17b334f45"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a8aeb8ebe720dfbc97275f2eac9eda2e758c64ac2667a7c3d5a611f6e4c42aa2"
 metafile = true
