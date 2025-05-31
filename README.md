@@ -12,6 +12,8 @@ The link points to this repo to know which files to use.
 - [Continuity](https://modrinth.com/mod/continuity)*
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)*
 - [EntityCulling](https://modrinth.com/mod/entityculling)*
+- [EntityModelFeatures](https://modrinth.com/mod/entity-model-features)*
+- [EntityTextureFeatures](https://modrinth.com/mod/entitytexturefeatures)*
 - [Kotlin Fabric](https://modrinth.com/mod/fabric-language-kotlin)
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)*
 - [Iris](https://modrinth.com/mod/iris)*
@@ -19,11 +21,13 @@ The link points to this repo to know which files to use.
 - [JourneyMap](https://modrinth.com/mod/journeymap)*
 - [litematica](https://modrinth.com/mod/litematica)*
 - [MiniHud](https://modrinth.com/mod/minihud)*
+- [ModMenu](https://modrinth.com/mod/modmenu)
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)*
 - [Neat](https://modrinth.com/mod/neat)*
 - [REI](https://modrinth.com/mod/rei)*
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)*
+- [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 - [Zoomify](https://modrinth.com/mod/zoomify)*
 
 \* - optional

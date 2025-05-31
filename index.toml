@@ -31,8 +31,18 @@ hash = "a8aeb8ebe720dfbc97275f2eac9eda2e758c64ac2667a7c3d5a611f6e4c42aa2"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7e58fafb43626995cece085b2dca57ff1ead1b3ab442df8cd581d4c1f2127b34"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
 metafile = true
 
 [[files]]
@@ -86,6 +96,11 @@ hash = "c9a46a15eb50776a0b1a9741ef93772a0a70dd6969c4fdc12a5b01fc840379ad"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "a20dc0fb5d920470b0379ba2fbaa4fcea0ea9ab31715a00115f161a685a24b15"
 metafile = true
@@ -93,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/neat.pw.toml"
 hash = "b3c2920343857cd23db36bed634d10a7c53b5286d7c703f4a5f6de139ee1da5a"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
