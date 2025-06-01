@@ -14,12 +14,14 @@ The link points to this repo to know which files to use.
 - [EntityCulling](https://modrinth.com/mod/entityculling)*
 - [EntityModelFeatures](https://modrinth.com/mod/entity-model-features)*
 - [EntityTextureFeatures](https://modrinth.com/mod/entitytexturefeatures)*
+- [Ferrite-Core](https://modrinth.com/mod/ferrite-core)
 - [Kotlin Fabric](https://modrinth.com/mod/fabric-language-kotlin)
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)*
 - [Iris](https://modrinth.com/mod/iris)*
 - [Jade](https://modrinth.com/mod/jade)
 - [JourneyMap](https://modrinth.com/mod/journeymap)*
 - [litematica](https://modrinth.com/mod/litematica)*
+- [Lithium](https://modrinth.com/mod/lithium)
 - [MiniHud](https://modrinth.com/mod/minihud)*
 - [ModMenu](https://modrinth.com/mod/modmenu)
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)*

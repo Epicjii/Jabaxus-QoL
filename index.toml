@@ -56,6 +56,11 @@ hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "36458742fd0345125d8bfd577c63ee805f45a8f413df954973830571ce9c8e4e"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/litematica.pw.toml"
 hash = "b7a231d2c0d69a661b5cccaa30b7a2b22523b4f759cc33f0d0542887da0b1060"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
 
 [[files]]
