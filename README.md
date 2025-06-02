@@ -1,4 +1,3 @@
-# WIP
 # A Fabric QoL modpack for Vanilla Minecraft  
 ## Mod List [here](#modlist)
 ## Download Instructions
