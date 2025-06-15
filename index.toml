@@ -16,6 +16,11 @@ hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
 
 [[files]]
+file = "mods/auto-clicker.pw.toml"
+hash = "d5e6a147fa863f9a8619a581cccf6cbf9118fff1b4582e31a3b2b581e7bbc28a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
