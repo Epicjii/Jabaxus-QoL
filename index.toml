@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/amecs-reborn.pw.toml"
-hash = "3e0fdef6e4eb5661960b7f603e31a531930fe22e3c02de6628184150469cb944"
+hash = "f00bfa1fee7f1e10983902e0a1b9c808576925ff72d17439f6f49969e0393a4a"
 metafile = true
 
 [[files]]
@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/auto-clicker.pw.toml"
-hash = "d5e6a147fa863f9a8619a581cccf6cbf9118fff1b4582e31a3b2b581e7bbc28a"
+hash = "8c1b458617af301c462399c36200f1822096b4c9e8e28bb255eb962067b42924"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "97925d8b14e28c09a78e57859f26853b816377eb7b753ec75e1addc46274f939"
+hash = "4bd05caf289d131e3ad26b1827d35ba13a35c6a924e18409f1494b808ff0830a"
 metafile = true
 
 [[files]]
