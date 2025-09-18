@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "2c2ce118d270cab618c889b915a4ff80fb4b1be4b470ffacceba9cf13acf20b9"
+hash = "50776e91a9413e93c95741e6979fcbcad8853ad7c83d5fba1c1261cbf804c691"
 metafile = true
 
 [[files]]
@@ -47,17 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cee57c5aa43e284521335dc6141ec023acf5cb934bee059d4b0dc8ba14d709f4"
+hash = "3f9d0c3b9d80721d921418341721f2b22429a332ce77dbea6c9195f6efd67523"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "17d4083ec0d10cc2f5ca3a750b864dff5def75aa6c71f434ab701e2123e1b02c"
+hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "499f0acaa7bc8fba2806e5353173c62e1b79d9a3e57c39c819f2bd91ac23acc5"
+hash = "86fede28675c2ca564131423240247bec050f6307c47db0c5fe8b5c88c653e73"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "f5fb38fc6317be22eda3cf1f14886b10bbcd63ed671c191d248e6bdedf77b00f"
+hash = "7e9c8e19350d9ff1574ae50d5b22c0551b909060db6277f6ebda2339a058feaf"
 metafile = true
 
 [[files]]
@@ -102,17 +102,17 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "e6e5b83fe6fdc154dcf0e5cf62309ecae0b6a44e1d5a1388d2d5a2dd7a6c4790"
+hash = "e211f2d9ee543b916ac3e6492ee362deabb2534851c70faa3002b40a24bbd72b"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "ee4d7dafa2e77e6758cadfe47b2701dd2912ac63fdaeabdd4e2e5c25a8823f7f"
+hash = "0fc686bf91e07176f61f72fc9859b49144cfe7c1f4a0a5fd76d7e18c48fa4a17"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
+hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
+hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
 metafile = true
 
 [[files]]
