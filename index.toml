@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
+hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
 metafile = true
 
 [[files]]
@@ -67,12 +67,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "853ed38e010ab4bf93789b9f65f8945b88a0b0c6117a396dc3150d84c66aed9c"
+hash = "f040ebb9c181811cb7844e0389de101a200039c3ce3e98fa4bd7f275967e7817"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d136d7803dfd13e943e81b9031a7cb3efc4455d17b7ed57f76188a747fe66e3f"
+hash = "dba46da40cc916f5f95d0062e54255d61bb9cebb4800bd0412eeed6851c3e1f6"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "7a42ef83b689db8a756339351aeac519188c2c8bbe2784a9a17b67bcf0383e98"
+hash = "bde1e584be6e389eb05cd4c113741f50798fe70e08cfb5c8cf487db6a6559dcb"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
+hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+hash = "2edb9b80b26d7f7d2f3b2edc82a33838906e6be25382aeaf186fbb25dc07e4f8"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "bd30f37373455923cbcc1588cd898fccad9c3e176d4770e03d4be5b8620b1d4e"
+hash = "b69aca38cf29fb06aa1967a6dca9a3c9b3875f32ba3b931b3b650b29bbe00a52"
 metafile = true
 
 [[files]]
@@ -157,5 +157,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "aa2ced2611df18f09e0cc353d944a1e13c21d572884c3a6f27610f787cfb21d2"
+hash = "7c9c8b8c9393bd4e82eaa618f511069f4a1c2788bfe57070669679a0908b9619"
 metafile = true
