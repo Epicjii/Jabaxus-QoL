@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "891de90900d6d6091c7b6f66478f77fa070b6512d41b85c5693712210db40903"
+hash = "54d015d1980f48fa17c4a75c0ea2163ec83de9ce8a07dc7abf34d1e738e83f33"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "dba46da40cc916f5f95d0062e54255d61bb9cebb4800bd0412eeed6851c3e1f6"
+hash = "62b8b7e49ecdf0ffc1e6b96e676e381bf199d47f9ab14878e28cd61f1edc5b96"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2edb9b80b26d7f7d2f3b2edc82a33838906e6be25382aeaf186fbb25dc07e4f8"
+hash = "780646258386fccb6c92851e13dfb32b5d85cae9596ce6c829894b179245e64c"
 metafile = true
 
 [[files]]
