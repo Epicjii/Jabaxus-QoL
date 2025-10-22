@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "54d015d1980f48fa17c4a75c0ea2163ec83de9ce8a07dc7abf34d1e738e83f33"
+hash = "abf29b7b4e7deb640da4c27102efbf448803b4befb0f8078f6346ebeec354a72"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5063ff3e7df668881d725d0e272dde4d904dfb19cff786e73fd3fd2bd88118eb"
+hash = "571af151a2ca14f15408ea1145426b30921ceb64a3164ee1448372d6dfb9a38d"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
+hash = "dae294bc7e60c5052b3c705bc15e4b2ebc1af7465e294c4f9824a4b63719475b"
 metafile = true
 
 [[files]]
