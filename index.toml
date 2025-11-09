@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "379e054c03ab23fd548e83fe4e63e289a01794c0e430864fbddb01686a08df2e"
+hash = "5a5767fc7f4c7ace54fb67e4bb7990c8f7e58b54862f7d1b2e30ea6a9f368962"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "336bea7fbe2bbbae3875ac59dbc0d11a7f1eb247a5f23e951c136bcd952a6086"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "85968faa5a1e2dd6317d16598620b56a5903ceb7a3a406b4c58d746973af6f63"
+hash = "d3f2b7a9d58d0fccbbded8fe9d10782f380e7506d9a422530af19ea02304401b"
 metafile = true
 
 [[files]]
@@ -81,13 +81,18 @@ hash = "a077e0482f50add9ef20e962a7939aa678583cb3f354fb6b6124219badafdd4d"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "312b9982d185f1685ebf4c2c5702707173d41bba9a83ed588be83ec0e21df95e"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "6f5902c4531f15e9616bed44fc8e585b889c241331def1f277ef60e3a76084e2"
 metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "3ded8f0e2b2408286789398b6a82ed97e55dd0bdec5585937c293187f133c342"
+hash = "b9eadbeac742be0f77b95d3067c4760347452b690b8ae00268f4d5edc7ee8e70"
 metafile = true
 
 [[files]]

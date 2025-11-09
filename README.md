@@ -21,6 +21,7 @@ The link points to this repo to know which files to use.
 - [Iris](https://modrinth.com/mod/iris)*
 - [Jade](https://modrinth.com/mod/jade)
 - [JourneyMap](https://modrinth.com/mod/journeymap)*
+- [JEI](https://modrinth.com/mod/jei)*
 - [litematica](https://modrinth.com/mod/litematica)*
 - [Lithium](https://modrinth.com/mod/lithium)
 - [MiniHud](https://modrinth.com/mod/minihud)*
