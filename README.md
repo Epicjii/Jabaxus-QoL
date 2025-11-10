@@ -7,7 +7,7 @@ Add ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubuserc
 The link points to this repo to know which files to use.
  
 ## Modlist
-- [Amecs Reborn](https://modrinth.com/mod/amecs-reborn)*
+- [Amecs](https://modrinth.com/mod/amecs)*
 - [Appleskin](https://modrinth.com/mod/appleskin)
 - [Auto Clicker](https://modrinth.com/mod/auto-clicker)*
 - [Continuity](https://modrinth.com/mod/continuity)*

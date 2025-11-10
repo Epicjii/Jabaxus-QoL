@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/amecs-reborn.pw.toml"
-hash = "f00bfa1fee7f1e10983902e0a1b9c808576925ff72d17439f6f49969e0393a4a"
+file = "mods/amecs.pw.toml"
+hash = "00d42f385378b7e9a3090057e82bb01e33c99056ee43a1e31d9787a2bccee98b"
 metafile = true
 
 [[files]]
