@@ -82,12 +82,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "312b9982d185f1685ebf4c2c5702707173d41bba9a83ed588be83ec0e21df95e"
+hash = "86cd28075c9c29144eda28245a6a746560e640f8197c25ce0f26edcb8f7e0779"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "6f5902c4531f15e9616bed44fc8e585b889c241331def1f277ef60e3a76084e2"
+hash = "e9d64b4a849e26a95543f730d864755de9c0b98b9f82e14b1cc1473c8cd76841"
 metafile = true
 
 [[files]]
@@ -97,22 +97,22 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "021ff8f966ea2be27acfad39321784a0dba5ef4328740671184bed861b8ada31"
+hash = "a389f9a50aa7198afe3d36e36bfb825efc743da7097aa8977ee37cac9f8788ea"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
+hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "dd9c014be7eed04ccdba9604602ee2618d1efc424e16807c9a95e319f9407d8f"
+hash = "df5ce30f6ac464f7b06400e03568d2b9087dd1849fd8c21a2381fe2f666338b6"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "e6337daca302333bd0e280b2702d70227678f68d3e5aeeb7fad745602038d462"
+hash = "4934054e1b2d95dc884eae9173932d0a9d8dc395c48bcba8da0b3c7765c4ba72"
 metafile = true
 
 [[files]]
