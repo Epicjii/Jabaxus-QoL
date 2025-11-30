@@ -29,6 +29,7 @@ The link points to this repo to know which files to use.
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)*
 - [Neat](https://modrinth.com/mod/neat)*
 - [REI](https://modrinth.com/mod/rei)*
+- [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)*
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)*
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
