@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "3548fbd839350c6e4249b8eab6f72cfefeaa7a3bd297393f1fdc2c819d898c0b"
+hash = "48adb4f377b30095306777c30b650212ab1e5d64dccabd534a8091b19c508ea2"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "cfa4ddfc8999e7be331c6dad1f2a0372f996243241d21697939e6838b3402c6d"
+hash = "e71ac6769675de1d2338a13e116f2aefcc8965ab0bc18b75a53572531c1447dd"
 metafile = true
 
 [[files]]
