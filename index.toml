@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "90ca0a384ee296f38853c302616a1e68754d15e47f3a65cc7d05e3002b805f31"
+hash = "d5f820ebe41ae44dcaa773aec561b20d78f9ca7f2df7b02329e005b562a5c8bb"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "d3f2b7a9d58d0fccbbded8fe9d10782f380e7506d9a422530af19ea02304401b"
+hash = "2914795252165e9d4e7005329ca59053eb3063d2fc0556a414eb4185933c5e4e"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "365d643b60399c78e36195b839d70029781d0cb575ea58416762cae8565e4183"
+hash = "a0a06d3ed8495372bc88e19df78862f1a1e19dd43daddb460f9dffb9a1e06637"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "b9eadbeac742be0f77b95d3067c4760347452b690b8ae00268f4d5edc7ee8e70"
+hash = "6a9a36e5b6df0459227d4c67760fab573d363f43e252a071c139cc576ff15588"
 metafile = true
 
 [[files]]
