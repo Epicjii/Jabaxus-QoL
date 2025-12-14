@@ -9,7 +9,6 @@ The link points to this repo to know which files to use.
 ## Modlist
 - [Amecs](https://modrinth.com/mod/amecs)*
 - [Appleskin](https://modrinth.com/mod/appleskin)
-- [Auto Clicker](https://modrinth.com/mod/auto-clicker)*
 - [Continuity](https://modrinth.com/mod/continuity)*
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)*
 - [EntityCulling](https://modrinth.com/mod/entityculling)*
@@ -33,6 +32,7 @@ The link points to this repo to know which files to use.
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)*
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
+- [Tweakeroo](https://modrinth.com/mod/tweakeroo)*
 - [Zoomify](https://modrinth.com/mod/zoomify)*
 
 \* - optional

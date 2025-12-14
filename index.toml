@@ -16,11 +16,6 @@ hash = "1502d3ac2c2ce4d3dc4c2db6ca6e95fb2a5d4a279e6e1413f6c427be222887a0"
 metafile = true
 
 [[files]]
-file = "mods/auto-clicker.pw.toml"
-hash = "cde49ccfb2c912db7f495549a060500c70c0ece67756c9b1ba97e60086a01599"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
 metafile = true
@@ -158,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "55b701488508fbe8ae244d636be3bc87e3da544235206012a27d40348d28bab3"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "cd002427807ee03df0b635737c17b51c2734a7d3d9374e54d3a9f22a20eccf5c"
 metafile = true
 
 [[files]]
