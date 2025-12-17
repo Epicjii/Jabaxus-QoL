@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "a389f9a50aa7198afe3d36e36bfb825efc743da7097aa8977ee37cac9f8788ea"
+hash = "3f6828b26dc47be803d1d7eeeccee105e342b06a2a0c7793fec6b91ad7f50d9f"
 metafile = true
 
 [[files]]
@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "df5ce30f6ac464f7b06400e03568d2b9087dd1849fd8c21a2381fe2f666338b6"
+hash = "bda12a83dc36c4a8e5b45438700b54bf21c182d923f7f8255570893628281e06"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "fdef141e0787dd04670c53806f5a1a7f7ed8655b306c960fac4e45365d5faef0"
+hash = "991c2301dbcb6d33eedfc816ec4fc4a4c4e3f3ecfcdb8a897461053116aa61f5"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "cd002427807ee03df0b635737c17b51c2734a7d3d9374e54d3a9f22a20eccf5c"
+hash = "922fe6a4dd6abd92519606619209166f5b121c6dba01d659ad4b0889c08fd00b"
 metafile = true
 
 [[files]]
