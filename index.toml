@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "4c8690da34084b6fa81cf24eedb1cc15dc5577dc27fb81696fd30d6a9dfe281b"
+hash = "9c8e88012eb0fbaf99c7066faa97ac404610d4c6a6e8a2dbcc425a12660310bd"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
+hash = "0345fbfa8542b5ec84535fe2aff0f5cc4e801ecc337f926d4e2310b53f458569"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a74a9f9d1982965eb006994e5d50428851281e32f04a1276d2ec4c9e1e244e51"
+hash = "60d987f04e0abc97bdd953a807e35fea8791d595fac79c31cc6b2021f4f4c709"
 metafile = true
 
 [[files]]
