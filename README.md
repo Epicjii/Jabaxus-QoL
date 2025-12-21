@@ -26,7 +26,6 @@ The link points to this repo to know which files to use.
 - [MiniHud](https://modrinth.com/mod/minihud)*
 - [ModMenu](https://modrinth.com/mod/modmenu)
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)*
-- [Neat](https://modrinth.com/mod/neat)*
 - [REI](https://modrinth.com/mod/rei)*
 - [Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)*
 - [Sodium](https://modrinth.com/mod/sodium)
@@ -34,5 +33,8 @@ The link points to this repo to know which files to use.
 - [Text Placeholder API](https://modrinth.com/mod/placeholder-api)
 - [Tweakeroo](https://modrinth.com/mod/tweakeroo)*
 - [Zoomify](https://modrinth.com/mod/zoomify)*
+
+## Shaders
+- [Solas Shaders](https://modrinth.com/shader/solas-shader)*
 
 \* - optional

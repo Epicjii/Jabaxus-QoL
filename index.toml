@@ -121,11 +121,6 @@ hash = "3f304ba8a46bfe65668b18552c646d3b9f886811d4de8e629a665a1a06699e32"
 metafile = true
 
 [[files]]
-file = "mods/neat.pw.toml"
-hash = "4bd05caf289d131e3ad26b1827d35ba13a35c6a924e18409f1494b808ff0830a"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
 metafile = true
@@ -168,4 +163,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "2885de696900238fa3a216a3b0a9265cdab9b20ac46482196e3070dd1f3162c1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "17b53a86ab5e283727169652d34b5ad150e0bc625ff053e29051b62ffb6d1a6b"
 metafile = true
