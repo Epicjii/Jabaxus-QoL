@@ -36,6 +36,6 @@ The link points to this repo to know which files to use.
 
 ## Shaders
 - [Solas Shaders](https://modrinth.com/shader/solas-shader)*
-- [Complimentary](https://modrinth.com/shader/complementary-unbound)*
+- [Complementary](https://modrinth.com/shader/complementary-unbound)*
 
 \* - optional
