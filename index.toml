@@ -166,6 +166,11 @@ hash = "2885de696900238fa3a216a3b0a9265cdab9b20ac46482196e3070dd1f3162c1"
 metafile = true
 
 [[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "2291dac107afb28cf0f76ba4f87fe448212ef165f87a5b168234c5b797332472"
+metafile = true
+
+[[files]]
 file = "shaderpacks/solas-shader.pw.toml"
 hash = "17b53a86ab5e283727169652d34b5ad150e0bc625ff053e29051b62ffb6d1a6b"
 metafile = true
