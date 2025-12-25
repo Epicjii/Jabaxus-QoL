@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "9c8e88012eb0fbaf99c7066faa97ac404610d4c6a6e8a2dbcc425a12660310bd"
+hash = "70c68cc1171840d881723d13912dc4692e0813dbdbe74ac9acb9dd032a57bc7e"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "bda12a83dc36c4a8e5b45438700b54bf21c182d923f7f8255570893628281e06"
+hash = "9946fd3c2a85099bb68cff8a2168601c3f1c7879fc42d018171c7cf5f25693d2"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+hash = "802981efce132e93b99352dacae410bf7b3e356f2e9de14b0ff9cea0beb31bb9"
 metafile = true
 
 [[files]]
