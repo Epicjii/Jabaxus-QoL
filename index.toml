@@ -171,6 +171,11 @@ hash = "2885de696900238fa3a216a3b0a9265cdab9b20ac46482196e3070dd1f3162c1"
 metafile = true
 
 [[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "af1f3ff89dc5b157c8ce8cb2f033993014442d9eafb5c5c0876ae739c19a417b"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "2291dac107afb28cf0f76ba4f87fe448212ef165f87a5b168234c5b797332472"
 metafile = true

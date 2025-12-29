@@ -36,6 +36,7 @@ The link points to this repo to know which files to use.
 - [Zoomify](https://modrinth.com/mod/zoomify)*
 
 ## Shaders
+- [BSL Shaders](https://modrinth.com/shader/bsl-shaders)*
 - [Solas Shaders](https://modrinth.com/shader/solas-shader)*
 - [Complementary](https://modrinth.com/shader/complementary-unbound)*
 
