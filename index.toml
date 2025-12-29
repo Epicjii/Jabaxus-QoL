@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b4165f971e7e39893ea79f270bc423cc6523db87cb23853aa0d057550b1f45ed"
+hash = "6d092503488a35f42b99407cafb14a0bf5e0c9d781d4296ad40ca95593bdbb3b"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "fed08247eefd60cd5608671d23aaf5779415e826124467d2816deae856d4be8d"
+hash = "64e24b409f370592d90358667cfa93bae078605cfee81cbe14aa745f9ec27613"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "054ca565c8dbcca9b9d1f742152fa2f32f61a0533872f8a541321eaa10ea7bc5"
+hash = "5d627fa3928aef40e41c0930c3b59b4a9401ff53f57dc48c75fbebde9c4a4cce"
 metafile = true
 
 [[files]]
