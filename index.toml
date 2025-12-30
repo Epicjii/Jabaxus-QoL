@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "326b119d9d3a6241742d6b2937d02350555529f29e1b405551baf7c898a0b550"
+hash = "c6f1ab5a3ac4d3ca2540bfa6fd8738328eed2ebd122170ac4cd503d6052a8188"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "991c2301dbcb6d33eedfc816ec4fc4a4c4e3f3ecfcdb8a897461053116aa61f5"
+hash = "92b349ada9e4fa7d233740fc1621bb03d82683ee337e92024be621754523059e"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "af1f3ff89dc5b157c8ce8cb2f033993014442d9eafb5c5c0876ae739c19a417b"
+hash = "ad1ca2e2d5b3642782ead8d3637100fd9706e025c14fec2fabc64afeddab9014"
 metafile = true
 
 [[files]]
