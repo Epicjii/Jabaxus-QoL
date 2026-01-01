@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f445316de307de5b0c571b8fe7ca3e9486841e94f5d1ee224f6d5e0c17e82548"
+hash = "0c5f3b4e68b1b511d6a0274d71a8eae6e1c7c2cbad7e9094b2f3fda6bdb2cd84"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "3f6828b26dc47be803d1d7eeeccee105e342b06a2a0c7793fec6b91ad7f50d9f"
+hash = "8ddaadd4c87f1239233c4335b4353977f5b5eed9eb3d54bb3aba6e2529b548b7"
 metafile = true
 
 [[files]]
@@ -182,5 +182,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "17b53a86ab5e283727169652d34b5ad150e0bc625ff053e29051b62ffb6d1a6b"
+hash = "ce44c099526ae6e563f628a25e8f4834030e2dcb3779c1f8499d249af08906a3"
 metafile = true
