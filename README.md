@@ -3,7 +3,7 @@
 ## Download Instructions
 First, download the [packwiz bootstrapper](https://github.com/packwiz/packwiz-installer-bootstrap/releases) and add it to your .minecraft.
 
-Add ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Epicjii/Jabaxus-QoL/refs/heads/1.21.10/pack.toml``` to your pre-launch commands in your instance settings to download the mods in the pack. 
+Add ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Epicjii/Jabaxus-QoL/refs/heads/1.21.11/pack.toml``` to your pre-launch commands in your instance settings to download the mods in the pack. 
 The link points to this repo to know which files to use.
  
 ## Modlist
@@ -39,5 +39,6 @@ The link points to this repo to know which files to use.
 - [BSL Shaders](https://modrinth.com/shader/bsl-shaders)*
 - [Solas Shaders](https://modrinth.com/shader/solas-shader)*
 - [Complementary](https://modrinth.com/shader/complementary-unbound)*
+
 
 \* - optional
