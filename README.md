@@ -3,7 +3,7 @@
 ## Download Instructions
 First, download the [packwiz bootstrapper](https://github.com/packwiz/packwiz-installer-bootstrap/releases) and add it to your .minecraft.
 
-Add ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Epicjii/Jabaxus-QoL/refs/heads/1.21.11/pack.toml``` to your pre-launch commands in your instance settings to download the mods in the pack. 
+Add ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Epicjii/Jabaxus-QoL/refs/heads/1.21.10/pack.toml``` to your pre-launch commands in your instance settings to download the mods in the pack. 
 The link points to this repo to know which files to use.
  
 ## Modlist
@@ -21,6 +21,7 @@ The link points to this repo to know which files to use.
 - [Jade](https://modrinth.com/mod/jade)
 - [JourneyMap](https://modrinth.com/mod/journeymap)*
 - [JEI](https://modrinth.com/mod/jei)*
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)*
 - [litematica](https://modrinth.com/mod/litematica)*
 - [Lithium](https://modrinth.com/mod/lithium)
 - [MiniHud](https://modrinth.com/mod/minihud)*
@@ -35,6 +36,7 @@ The link points to this repo to know which files to use.
 - [Zoomify](https://modrinth.com/mod/zoomify)*
 
 ## Shaders
+- [BSL Shaders](https://modrinth.com/shader/bsl-shaders)*
 - [Solas Shaders](https://modrinth.com/shader/solas-shader)*
 - [Complementary](https://modrinth.com/shader/complementary-unbound)*
 
