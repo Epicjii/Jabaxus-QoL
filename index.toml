@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "64e24b409f370592d90358667cfa93bae078605cfee81cbe14aa745f9ec27613"
+hash = "254ccb51e0d7ddbc1b33cd519ea33597b39184b2a2e41d3f5411dc3570faa221"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "c68cac49cb91708fd6b82bf8324ae4c544752f0e9151f5206f15bc050a91d33e"
+hash = "6324b634d5e464cf2606cce4e1d9b923701cad31764858d982fe0738129e0e4e"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "082f100c86e375f7e2a79660a76a7c6294273ccfb68235e332bce286b9e8a96d"
+hash = "4b3c6ad53ece7312c7d2636e386ac1f8363efb50a4b57887d0b98f2fbb72f47f"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "2aba3039105c718996ceef307175d356b4d2ef3518b012d85a4beeb46ca7e880"
+hash = "066e517435552118b4d5d2c1ee44c8bea424fcc0428cc1e9f5360e8ea90a624c"
 metafile = true
 
 [[files]]
