@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6f9c7fd82681111859ff63446dc8327447adeaad84e9cfb534955afb5eb6c81a"
+hash = "802981efce132e93b99352dacae410bf7b3e356f2e9de14b0ff9cea0beb31bb9"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "082f100c86e375f7e2a79660a76a7c6294273ccfb68235e332bce286b9e8a96d"
+hash = "1aadb2dd47141734c6f26c7f2b0b8ee87fcd9f169a57e947f0aa75fb53096998"
 metafile = true
 
 [[files]]
@@ -162,12 +162,12 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "976682e613b79e310fe22c5ddc2322bfc76665295cd9fa885787dfa08b7764b2"
+hash = "e71ac6769675de1d2338a13e116f2aefcc8965ab0bc18b75a53572531c1447dd"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "00ba9dd0f7ed23c0f9ac8209c8cc06d2b7b71adfbf4aa04defaf732f301e89c4"
+hash = "2885de696900238fa3a216a3b0a9265cdab9b20ac46482196e3070dd1f3162c1"
 metafile = true
 
 [[files]]
