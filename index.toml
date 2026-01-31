@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
+hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
+hash = "241cece83d6a3c7c0338a9b625972ee25747d14684810778bc64d9613f7a49a1"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "adcf4e8349912bf53a8e000914d70998cdf3d6c6176711ca63b2dde61d70f75d"
+hash = "3f68911b1dba6ba4bd23fd21d2f4511beb779aa19b18df041eec061711de0a97"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "4d79441431c6b6ef45147d5edb83a3d8f934beccf8ed02b0aa9cf93b814a19c9"
+hash = "22965586e3a31c8fa4dd6cdbf97a7a2f7f1ad37e5426730e13028366f7055f25"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
+hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
 metafile = true
 
 [[files]]
@@ -177,10 +177,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "2291dac107afb28cf0f76ba4f87fe448212ef165f87a5b168234c5b797332472"
+hash = "b20ce181c4f588c0d993f6c4009e22fee079c6a40b3f3b060a33ab9b043167e8"
 metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "ce44c099526ae6e563f628a25e8f4834030e2dcb3779c1f8499d249af08906a3"
+hash = "c5c6e90a9fd492a8c8c1bf1b5c047e64d686b45fa0a6888e8cd9e173b475b94c"
 metafile = true
