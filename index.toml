@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d9266107b1bfcc08ceb10959c5909c84c8c25da552f3d1952313f0f8944b0114"
+hash = "8182d255473c46d18fa0702796ef0099958dae0ea0413fcec1d5a90ffa0776f1"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "c0724f09c517c4b3b880157a07535a86e9dffaf275965fcb2d62d84e65d38c62"
+hash = "aa3505047bd97b900662300af19f383f605e7b5d7219ce4f88b2ef448a339963"
 metafile = true
 
 [[files]]
@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "7f598fc879a99bd82787c8e268d85a935b78c6e6e93ce1c77bb9d498196cc93c"
+hash = "e9f1937ba20ab4192d0277ded9a1cbd12f21bbd52a21c887204928e772071860"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "3a21bf1b53b1371c3bed8e1dc2151513983530deb58918c7c2894fa5969c6a1e"
+hash = "167af50c801e18bbe6ec1f7d9717d3106b8fb72c0518a5bd0f47e0140594401d"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b762f7010388dd7cb1f98ef316217952528a35fe818ff3a12be0975e3c9cf0e1"
+hash = "723a13737a51aa682f385ede7e4bfa925b1dfb435436ab2f69dc25c4be1b2c04"
 metafile = true
 
 [[files]]
@@ -182,5 +182,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "694b6a7cab4f28beb5d1538689e4b1a599a7c5924707ebec659a32a679121cc3"
+hash = "64a789d617ac2e7b7babae36916689251f88f9a151ae9a3c8cf8b21aff65605c"
 metafile = true
